@@ -14,7 +14,7 @@ The Training data was sourced from Kaggle: https://www.kaggle.com/datasets/adils
 
 The dataset contains student responses, including demographics (age, gender, academic year), behavioral indicators (sleep patterns, extracurricular involvement, time spent studying), mental-health-related survey items, and a binary label indicating whether the student is depressed or not (or their risk level).
 
-Shape: 141,000 records, 25 columns
+Shape: 141,000 records, 18 columns
 
 Data cleaning steps: handle missing values, remove duplicates, clean column names.
 
